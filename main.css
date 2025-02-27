@@ -1,0 +1,73 @@
+.signup-table {
+height: 450px;
+    width: 420px;
+    border-collapse: collapse;
+
+}
+#rt{
+text-align:left;
+padding-left:10px;
+}
+.signup-table .header {
+    background-color: #de8704;
+    color: #fff;
+    font-weight: bold;
+}
+
+.signup-table .form-row {
+    background-color: #222536;
+
+}
+
+.signup-table .label {
+    text-align: right;
+    color: yellow;
+    padding: 5px;
+}
+
+.signup-table input[type="text"],
+.signup-table input[type="password"],
+.signup-table select {
+    width: 32%;
+    padding: 10px;
+    margin: 5px 0;
+     height: 20px;
+}
+
+.signup-table input[type="radio"] {
+    margin: 0 5px;
+}
+
+.signup-table .buttons input {
+    padding: 10px 20px;
+    margin: 5px;
+}
+
+.signup-table .submit {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+.signup-table .reset {
+    background-color: #f44336;
+    color: white;
+    border: none;
+}
+
+
+.signup-table .footer {
+    background-color: #de8704;
+    text-align: right;
+    padding: 10px;
+color: yellow;
+}
+
+
+.yell{
+color: yellow;
+}
+.signup-table input[type="text"],
+.signup-table input[type="password"]{
+width:80%;
+}
